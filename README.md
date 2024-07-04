@@ -29,3 +29,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program, in the file COPYING.
 ```
+e.g
+chg data to 0x12345678 at addr 0xb0400000:devmem2 0xb0400000 w 0x12345678
+read data at addr 0xb0400000:devmem2 0xb0400000
